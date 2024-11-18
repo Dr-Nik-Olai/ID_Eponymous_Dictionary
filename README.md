@@ -1,0 +1,1 @@
+The "Eponymous Dictionary of Infectious Diseases" celebrates pioneers in infectious disease research whose names have become part of medical terminology. Browse the alphabetical index or search by category to learn more about these individuals and their scientific contributions. 
