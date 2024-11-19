@@ -1,7 +1,7 @@
 project:
   type: website
-  output-dir: docs
   title: "Eponymous Dictionary of Infectious Diseases"
+  output-dir: _site
 
 website:  
   navbar:
