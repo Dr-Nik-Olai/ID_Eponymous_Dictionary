@@ -1,14 +1,14 @@
 project:
   type: website
   title: "Eponymous Dictionary of Infectious Diseases"
-  output-dir: _site
+  output-dir: docs
 
 website:  
   navbar:
     left:
       - text: "Preface"
         href: index.qmd
-      - text: "Name index"
+      - text: "Name Index"
         href: entries.qmd
 
 format:
