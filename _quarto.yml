@@ -1,7 +1,10 @@
 project:
   type: website
   title: "Eponymous Dictionary of Infectious Diseases"
-  output-dir: docs
+  
+  
+output-dir: docs
+
 
 website:  
   navbar:
@@ -11,11 +14,13 @@ website:
       - text: "Name Index"
         href: entries.qmd
 
+
 format:
   html:
     theme: default  # Customize the theme as you like
     toc: true       # Enables a table of contents
     css: styles.css # Optional custom styles if needed
+
 
 editor: visual
 
