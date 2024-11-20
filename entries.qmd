@@ -2,37 +2,37 @@
 title: "Name index"
 ---
 
-A  
-B  
-C  
-D  
-E  
-F  
+A
+B
+C
+D
+E
+F
 G
 
 ### H
 
-[Hansen] disease
+Hansen disease
 
-I  
-J  
-K  
-L  
-M  
-N  
-O  
+I
+J
+K
+L
+M
+N
+O
 
 ### P
 
 [Pasteur](Entries/Pasteur.html)
 
-Q  
-R  
-S  
-T  
-U  
-V  
-W  
-X  
-Y  
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
 Z
