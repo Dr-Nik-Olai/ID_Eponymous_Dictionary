@@ -10,5 +10,8 @@
   },
   "Entries/Pasteur.qmd": {
     "Pasteur.html": "8d1fd790"
+  },
+  "entry_template.qmd": {
+    "entry_template.html": "3c2cd06e"
   }
 }

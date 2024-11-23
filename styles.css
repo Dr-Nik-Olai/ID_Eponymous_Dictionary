@@ -1,1 +1,12 @@
-/* css styles */
+body {
+  font-family: "Arial", sans-serif;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+.navbar {
+  background-color: #2980b9;
+}
+

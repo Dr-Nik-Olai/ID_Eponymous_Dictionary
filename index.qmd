@@ -1,10 +1,3 @@
 ---
-title: "Preface"
-subtitle: "(From the editor)"
+title: "Home page"
 ---
-
-This dictionary celebrates pioneers in infectious disease research whose names have become part of medical terminology.
-Browse the alphabetical index or search by category to learn more about these individuals and their contributions. (...)
-
--   State administrative belonging of cities/towns/villages in which a person was born or died are designated due to the
-    nowadays' nation-state principle.

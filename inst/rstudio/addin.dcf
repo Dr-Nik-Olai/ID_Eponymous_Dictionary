@@ -1,7 +1,0 @@
-Name: Render and Push Quarto Site
-
-Description: Renders the Quarto site and pushes changes to GitHub
-
-Binding: render_and_push
-
-Interactive: true

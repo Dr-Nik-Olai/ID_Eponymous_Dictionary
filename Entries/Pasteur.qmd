@@ -2,9 +2,8 @@
 title: "PASTEUR"
 ---
 
-![](../images/Pasteur.jpg)
+![](../Images/Pasteur.jpg)
 
 **Louis Pasteur** (1822, Dole, France - 1895, Marnes-la-Coquette, France) - a French chemist and microbiologist.
 
-***Pasteurization*** - a process of food preservation in which food products are treated with mild heat, usually to less
-than 100 °C (212 °F), to eliminate microorganisms and extend shelf life.
+- ***Pasteurization*** - a process of food preservation in which food products are treated with mild heat, usually to less than 100 °C (212 °F), to eliminate microorganisms and extend shelf life.
