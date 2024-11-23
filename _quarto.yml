@@ -1,26 +1,20 @@
 project:
   type: website
   title: "Eponymous Dictionary of Infectious Diseases"
-  
-  
-output-dir: docs
+  output-dir: _site
 
-
-website:  
+website:
   navbar:
     left:
       - text: "Preface"
         href: index.qmd
-      - text: "Name Index"
+      - text: "Name index"
         href: entries.qmd
-
 
 format:
   html:
-    theme: default  # Customize the theme as you like
-    toc: true       # Enables a table of contents
-    css: styles.css # Optional custom styles if needed
-
+    theme: default
+    toc: true
+    css: styles.css
 
 editor: visual
-

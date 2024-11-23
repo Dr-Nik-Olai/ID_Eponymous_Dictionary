@@ -7,17 +7,24 @@
     "text": "This dictionary celebrates pioneers in infectious disease research whose names have become part of medical terminology. Browse the alphabetical index or search by category to learn more about these individuals and their contributions. (…)\n\nState administrative belonging of cities/towns/villages in which a person was born or died are designated due to the nowadays’ nation-state principle."
   },
   {
-    "objectID": "Entries/Pasteur.html",
-    "href": "Entries/Pasteur.html",
-    "title": "PASTEUR",
-    "section": "",
-    "text": "Louis Pasteur (1822, Dole, France - 1895, Marnes-la-Coquette, France) - a French chemist and microbiologist.\nPasteurization - a process of food preservation in which food products are treated with mild heat, usually to less than 100 °C (212 °F), to eliminate microorganisms and extend shelf life. - – —"
-  },
-  {
     "objectID": "entries.html",
     "href": "entries.html",
     "title": "Name index",
     "section": "",
     "text": "A\n\n\nB\n\n\nC\n\n\nD\n\n\nE\n\n\nF\n\n\nG\n\n\nH\nHansen disease\n\n\nI\n\n\nJ\n\n\nK\n\n\nL\n\n\nM\n\n\nN\n\n\nO\n\n\nP\nPasteur\n\n\nQ\n\n\nR\n\n\nS\n\n\nT\n\n\nU\n\n\nV\n\n\nW\n\n\nX\n\n\nY\n\n\nZ"
+  },
+  {
+    "objectID": "Entries/Pasteur.html",
+    "href": "Entries/Pasteur.html",
+    "title": "PASTEUR",
+    "section": "",
+    "text": "Louis Pasteur (1822, Dole, France - 1895, Marnes-la-Coquette, France) - a French chemist and microbiologist.\n\nPasteurization - a process of food preservation in which food products are treated with mild heat, usually to less than 100 °C (212 °F), to eliminate microorganisms and extend shelf life."
+  },
+  {
+    "objectID": "entry_template.html",
+    "href": "entry_template.html",
+    "title": "SURNAME",
+    "section": "",
+    "text": "Name & surname (birth year, place - death year, place) - a ethnic/national specialist.\n\nEponym - …"
   }
 ]
